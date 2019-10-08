@@ -1,0 +1,45 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+table {
+    border: 1px solid #008B8B;
+}
+
+th {
+    font-weight: normal;
+    color: ;
+    border-bottom: 1px dashed #008B8B;
+    padding: 12px 17px;
+}
+
+td {
+    color: black;
+    padding: 7px 17px;
+}
+
+tr:hover td {
+    background: #008B8B;
+}
+
+input[type=submit] {
+    padding: 5px 15px;
+    background: #008B8B;
+    border: 0 none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
