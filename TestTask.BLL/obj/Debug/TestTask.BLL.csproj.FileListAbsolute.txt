@@ -1,0 +1,17 @@
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.BLL.dll.config
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.BLL.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.BLL.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.DAL.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.DAL.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\TestTask.DAL.dll.config
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\obj\Debug\TestTask.BLL.csprojAssemblyReference.cache
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\obj\Debug\TestTask.BLL.csproj.CopyComplete
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\obj\Debug\TestTask.BLL.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\obj\Debug\TestTask.BLL.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.BLL\bin\Debug\AutoMapper.xml

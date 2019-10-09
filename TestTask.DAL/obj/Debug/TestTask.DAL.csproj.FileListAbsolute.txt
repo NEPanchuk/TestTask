@@ -1,0 +1,13 @@
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\TestTask.DAL.dll.config
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\TestTask.DAL.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\TestTask.DAL.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.csprojAssemblyReference.cache
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.csproj.CopyComplete
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.dll
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.pdb
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.Migrations.InitialCreate.resources
+C:\Users\Rodin Family\Desktop\Task\TestTask\TestTask.DAL\obj\Debug\TestTask.DAL.csproj.GenerateResource.cache

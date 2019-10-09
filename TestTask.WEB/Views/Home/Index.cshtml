@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width" />
+    <link type="text/css" rel="stylesheet" href=@Url.Content("../../Content/Site.css") />
+    <title>Пользователи</title>
+</head>
+<body>
+
+    @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="csvFile" accept="csv" />
+        <input type="submit" value="Импорт" />
+    }
+
+    <div>
+        <h3>Пользователи</h3>
+        <table>
+            <tr>
+                <th><p>Имя</p></th>
+                <th><p>Дата рождения</p></th>
+                <th><p>Пол</p></th>
+                <th><p>Имя родителя</p></th>
+            </tr>
+            @foreach (var u in ViewBag.usersInfo)
+            {
+                <tr>
+                    <td><p>@u.Name</p></td>
+                    <td><p>@u.DateBirth</p></td>
+                    <td><p>@u.Gender</p></td>
+                    <td><p>@u.ParentName</p></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
